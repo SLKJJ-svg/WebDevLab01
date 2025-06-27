@@ -52,7 +52,7 @@ sk_data = {
 #CHANGE BELOW (OPTIONAL)
 sk_icons = {
     "Sports Medicine": " :pill:",
-    "Fitness Training": " :football:",
+    "Fitness Training": " :sports_medal:",
     "Nutrition Planning": " :meat_on_bone:",
 }
 spoken_icons = {"French": "🇫🇷",
